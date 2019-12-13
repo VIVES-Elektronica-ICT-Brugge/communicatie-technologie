@@ -7,9 +7,7 @@ module.exports = {
       { text: 'Company', link: 'https://www.vives.be' },
       { text: 'License', link: '/LICENSE.md' },
     ],
-    sidebar: [
-      ['/', 'Home'],
-    ],
+    sidebar: [['/', 'Home'], ['/chapter-1-introduction/', 'Chapter 1 Introduction']],
     repo: 'https://github.com/VIVES-Elektronica-ICT-Brugge/communicatie-technologie',
     docsDir: 'docs',
     docsBranch: 'master'
